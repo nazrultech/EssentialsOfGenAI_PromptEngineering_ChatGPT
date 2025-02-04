@@ -1,4 +1,33 @@
 Objectives: To demonstrate the use of ChatGPT in creating a professional resume 
-and cover letter for a Full Stack Developer position, showcasing the candidate's skills and experiences
+and cover letter for a DevOps cum Developer position, showcasing the candidate's skills and experiences
 Tools required: ChatGPT
 Prerequisites: None
+
+Input in ChatGPT:
+
+Candidate profile:
+Name: Nazrul Choudhury
+Experience: 16 years
+Industry: Information Technology
+Skillset:
+CI/CD Tools: Jenkins, GitHub, SonarQube, Docker, Kubernetes
+Programming: Python, C#, ASP.Net
+Database Expert: Oracle, PostgreSQL, SQL Server
+Monitoring: Grafana, Kibana
+Cloud: Azure, AWS, SG Private Cloud
+Agile & DevOps Practices
+Soft skills: Excellent communication, team leadership, project management, and problem solving
+Job description Nazrul is willing to apply:
+• Position: Societe Generale
+• Location: Canada (Remote)
+Job responsibility:
+In-depth experience with Property and Casualty Insurance Suite (Policy, Claims, or Billing) release planning and deployment.
+Strong hands-on experience with Azure DevOps/ADO, branching strategies, and proficiency in Git, Jenkins, and Octopus.
+Release planning and coordination across teams.
+Overseeing release execution and ensuring smooth deployment processes.
+Identifying and managing risks throughout the release cycle.
+Collaborating effectively with cross-functional teams.
+Providing post-release support and issue resolution.
+
+Prompt:
+Create a resume for Nazrul Choudhury that showcases his 16-year journey in the IT industry as an expert in DevOps. It should highlight his expertise in Jenkins, GitHub, SonarQube, Docker, Kubernetes, Python, C#, ASP.Net, Oracle, PostgreSQL, SQL Server, Grafana, Kibana, Azure, AWS, SG Private Cloud and Agile & DevOps Practices. The resume must emphasize Nazrul's leadership in project development, team collaboration, passion for technology, and continuous learning. Align the resume with the Technical Release Manager role at Societe Generale, focusing on his relevant technical and soft skills matching the job's requirements.
