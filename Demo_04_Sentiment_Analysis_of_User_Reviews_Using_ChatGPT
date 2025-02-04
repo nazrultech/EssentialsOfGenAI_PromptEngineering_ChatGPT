@@ -1,0 +1,22 @@
+Objective: To demonstrate the use of ChatGPT in creating a LinkedIn profile, showcasing the skills, experiences, and professional brand
+Tools required: ChatGPT
+Prerequisites: None
+
+Step 1: Copy the following details and prompt, then paste them into ChatGPT.
+Categorize the provided review based on the following input:
+Positive sentiment: Expresses a favorable view or positive emotions toward the subject
+Negative sentiment: Expresses an unfavorable view or negative emotions toward the subject
+Neutral sentiment: Expresses a neutral view or lack of strong emotions toward the subject.
+Mixed sentiment: Contains elements of both positive and negative sentiments or expresses contradictory emotions
+Questioning sentiment: Expresses curiosity, questioning, or uncertainty about the subject
+Appreciative sentiment: Shows gratitude, appreciation, or thankfulness toward the subjec
+
+Reviews:
+Provide just the sentiment of the following reviews:
+1. “I recently watched 'Eternal Visions' a film that was decent overall. The storyline had an interesting mix of mystery and romance, but it felt somewhat predictable at times. 
+The acting was good with the cast delivering solid performances though nothing particularly stood out. The visuals were nice with some beautiful scenes, but they weren't as captivating as I had hoped. The score was fine fitting the film's atmosphere, but it didn't leave a lasting impression on me. In summary, 'Eternal Visions' is an okay movie that might be worth a watch, but it didn't quite live up to my expectations."
+2. “I just finished reading 'The Nightingale' by Kristin Hannah, and I was absolutely blown away. The storytelling was captivating from start to finish, weaving together historical events with deeply relatable characters. I found myself completely immersed in the lives of Vianne and Isabelle, unable to put the book down. The emotional depth and raw honesty of the narrative left a lasting impact on me. I highly recommend 'The Nightingale' to anyone looking for a powerful and unforgettable 
+read.”
+3. "I had high hopes for the new restaurant in town but unfortunately my experience was disappointing. The ambiance was nice, but the service was incredibly slow, and the staff seemed indifferent. The food was mediocre at best, lacking flavor and creativity. Additionally, the prices were exorbitant for what we received. Overall, I wouldn't recommend dining at this establishment unless significant improvements are made."
+4. "The latest update of the app left me with mixed feelings. While I appreciate the new features and smoother interface, I'm frustrated with the increased battery consumption and the occasional bugs that disrupt my experience."
+
