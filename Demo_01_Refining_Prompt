@@ -1,0 +1,45 @@
+Objective: To demonstrate how to refine a prompt to generate accurate response
+Tools required: ChatGPT
+Prerequisites: None
+
+Steps to be followed:
+1. Provide context
+2. Be direct with the prompt
+3. Include the desired level of detail
+4. Check for errors
+5. Use the final prompt in ChatGPT
+Original prompt: Write an email
+Step 1: Provide context
+1.1 Give relevant background information and scenario details.
+Revised prompt: Write a professional and informative email to your team members providing a 
+detailed weekly update on the project management software implementation.
+Step 2: Be direct with the prompt
+2.1 State the purpose and requirements clearly and concisely.
+Revised prompt: Write a professional and informative email to your team members, providing a 
+detailed weekly update on the project management software implementation. In the email 
+body, include the following:
+1. An overview of the progress made during the past week, such as completed 
+tasks, milestones achieved, or successful integrations
+2. Any challenges or roadblocks encountered, and how they were addressed or 
+plans to address them
+3. Upcoming milestones or tasks for the next week
+4. Specific action items or responsibilities for team members, if applicable
+5. A request for feedback, questions, or concerns from the team
+Step 3: Include the desired level of detail
+3.1 Specify the depth or comprehensiveness expected in the response.
+Final prompt: Write a professional and informative email to your team members, providing a 
+detailed weekly update on the project management software implementation. In the email 
+body, include the following:
+1. An overview of the progress made during the past week, such as completed 
+tasks, milestones achieved, or successful integrations
+2. Any challenges or roadblocks encountered, and how they were addressed or 
+plans to address them
+3. Upcoming milestones or tasks for the next week
+4. Specific action items or responsibilities for team members, if applicable
+5. A request for feedback, questions, or concerns from the team
+Ensure that the email is well-structured, concise, and free of any grammar, spelling, or 
+formatting errors.
+Step 4: Check for errors
+4.1 Review and proofread the content to eliminate mistakes or inconsistencies.
+Step 5: Use the final prompt in ChatGPT
+5.1 Copy and paste the final prompt in ChatGPT
